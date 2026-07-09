@@ -10,6 +10,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## String
 |  |
 | ------- |
+| [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -19,6 +20,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0001-two-sum) |
+| [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -37,4 +39,8 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
