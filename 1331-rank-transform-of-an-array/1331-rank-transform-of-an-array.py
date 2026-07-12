@@ -1,11 +1,4 @@
-function arrayRankTransform(arr: number[]): number[] {
-    const sorted = [...new Set(arr)].sort((a, b) => a - b);
-    const map = new Map<number, number>();
-    let c = 1;
-
-    for (const x of sorted) {
-        map.set(x, c++);
-    }
-
-    return arr.map(x => map.get(x)!);
-}
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+        t = sorted(set(arr))
+        return [bisect_right(t, x) for x in arr]
