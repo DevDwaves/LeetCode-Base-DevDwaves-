@@ -7,6 +7,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -80,4 +81,5 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
