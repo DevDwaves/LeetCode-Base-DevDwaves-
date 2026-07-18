@@ -6,6 +6,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -26,6 +27,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [0001-two-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -89,6 +91,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3658-gcd-of-odd-and-even-sums) |
