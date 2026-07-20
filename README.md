@@ -26,6 +26,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0001-two-sum) |
+| [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
@@ -99,6 +100,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -108,4 +110,8 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
