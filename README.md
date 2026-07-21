@@ -16,6 +16,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -89,6 +90,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
