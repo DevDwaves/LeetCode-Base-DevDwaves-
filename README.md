@@ -75,6 +75,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
@@ -176,4 +177,12 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
