@@ -27,6 +27,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -65,6 +66,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [0001-two-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -215,4 +217,8 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
