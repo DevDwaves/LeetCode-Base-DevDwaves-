@@ -12,6 +12,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1406-stone-game-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
@@ -113,6 +115,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -191,6 +194,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1406-stone-game-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
