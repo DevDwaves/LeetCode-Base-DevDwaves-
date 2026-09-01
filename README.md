@@ -72,6 +72,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -83,6 +84,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -187,6 +190,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
 | ------- |
@@ -236,6 +240,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
