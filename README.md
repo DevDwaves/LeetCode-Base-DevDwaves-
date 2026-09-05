@@ -51,6 +51,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3904-smallest-stable-index-ii) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
