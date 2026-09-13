@@ -75,6 +75,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -102,6 +103,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -139,6 +141,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1563-stone-game-v](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -162,6 +165,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3536-maximum-product-of-two-digits) |
