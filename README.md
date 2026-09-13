@@ -61,6 +61,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [0001-two-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
@@ -208,6 +209,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
