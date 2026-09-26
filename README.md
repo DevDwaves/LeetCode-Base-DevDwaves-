@@ -37,6 +37,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [0115-distinct-subsequences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -76,6 +77,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -104,6 +106,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3483-unique-3-digit-even-numbers) |
