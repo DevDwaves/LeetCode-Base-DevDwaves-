@@ -34,6 +34,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -150,6 +151,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0877-stone-game) |
@@ -289,6 +291,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -329,6 +332,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
