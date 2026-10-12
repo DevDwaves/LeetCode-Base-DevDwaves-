@@ -89,6 +89,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -115,6 +116,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -178,6 +180,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -185,6 +188,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
