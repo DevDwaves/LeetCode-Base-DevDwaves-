@@ -90,6 +90,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3093-longest-common-suffix-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -118,6 +119,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -254,6 +256,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -358,4 +361,8 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
