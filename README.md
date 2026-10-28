@@ -110,6 +110,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3904-smallest-stable-index-ii) |
@@ -181,6 +182,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +266,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [0835-image-overlap](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
