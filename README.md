@@ -106,6 +106,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -182,6 +183,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -266,6 +268,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [0835-image-overlap](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
