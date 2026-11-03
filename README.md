@@ -26,6 +26,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3536-maximum-product-of-two-digits](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3870-count-commas-in-range) |
@@ -109,6 +110,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [3665-twisted-mirror-path-count](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
