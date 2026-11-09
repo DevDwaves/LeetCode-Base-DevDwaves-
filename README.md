@@ -80,6 +80,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [0877-stone-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -153,6 +154,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -265,6 +267,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -273,6 +276,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [0835-image-overlap](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -323,12 +327,14 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
