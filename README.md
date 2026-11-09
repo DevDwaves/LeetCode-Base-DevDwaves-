@@ -88,6 +88,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2747-count-zero-request-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2747-count-zero-request-servers) |
@@ -284,6 +285,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1882-process-tasks-using-servers) |
 ## Counting Sort
 |  |
 | ------- |
