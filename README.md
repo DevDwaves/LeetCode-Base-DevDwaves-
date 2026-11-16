@@ -49,6 +49,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -264,6 +265,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | ------- |
 | [1260-shift-2d-grid](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
