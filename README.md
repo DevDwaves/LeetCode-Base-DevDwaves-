@@ -97,6 +97,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1882-process-tasks-using-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -207,6 +208,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -229,6 +231,7 @@ Daily hunt of question on Leetcode while practicing DSA problem, daily streak pr
 | [1331-rank-transform-of-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevDwaves/LeetCode-Base-DevDwaves-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
